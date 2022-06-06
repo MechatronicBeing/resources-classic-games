@@ -1,6 +1,6 @@
 Free "public domain"-like licensed resources for PLAYING games.
 
-[P4WN](programs/web/p4wn/) : a chess game web application.
+[P4WN](applications/web/p4wn/) : a chess game web application.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
