@@ -1,4 +1,4 @@
-Free "public domain"-like licensed resources for PLAYING games.
+Free "public domain" resources for PLAYING board games.
 
 [P4WN](applications/web/p4wn/) : a chess game web application.
 
